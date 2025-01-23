@@ -4,6 +4,9 @@ body,p,h1,h5{
     font-family: sans-serif;
     color: #424242;
 }
+span{
+    color: #387ed1;
+}
 #topnavbar{
     background-color: #fff;
     box-shadow: 2px 1px 2px #eee;
@@ -70,6 +73,7 @@ body,p,h1,h5{
 #btn1{
     text-align: center;
     margin-top: 56px;
+    border-radius: 4px;
 }
 #button1{
     background-color: #387ed1;
@@ -115,6 +119,7 @@ body,p,h1,h5{
     margin-top: 9px;
     word-spacing: 1px;
     line-height: 35px;
+    color: #555252d3;
 }
 .ls2txt2{
     margin-left: 100px;
@@ -133,11 +138,13 @@ body,p,h1,h5{
     font-size: 20px;
     margin-left: 161px;
     margin-top: 26px;
+    color: #105dba
 }
 .arrowtext2{
     font-size: 20px;
     margin-left: 48px;
     margin-top: 26px;
+    color: #1363c5
 }
 .section3{
     display: flex;
@@ -164,6 +171,7 @@ body,p,h1,h5{
     margin-left: 111px;
     margin-top: 26px;
     font-size: 22px;
+    color: #387ed1;
 }
 .s3right{
     width: 58%;
@@ -199,15 +207,24 @@ body,p,h1,h5{
 }
 .s4p1{
     margin-left: 106px;
-    margin-top: 34px;
-    line-height: 33px;
-    font-size: 22px;
+    margin-top: 33px;
+    line-height: 35px;
+    word-spacing: 1px;
+    font-size: 21px;
+}
+.s4p3{
+    margin-left: 106px;
+    margin-top: 39px;
+    line-height: 36px;
+    font-size: 21px;
+    word-spacing: 1px;
 }
 .s4p2{
     margin-left: 106px;
-    margin-top: 34px;
+    margin-top: 21px;
     line-height: 26px;
     font-size: 21px;
+    color: #387ed1;
 }
 .section5{
     text-align: center;
@@ -222,12 +239,13 @@ body,p,h1,h5{
 .s5p1{
     margin-top: 39px;
     font-size: 21px;
+    color: #666;
 }
 .btn2{
     background-color: #387ed1;
     color: #fff;
     border: 1px solid;
-    border-radius: 3px;
+    border-radius: 5px;
     margin-top: 53px;
     margin-bottom: 100px;
     height: 55px;
@@ -283,6 +301,7 @@ body,p,h1,h5{
     margin-left: 23px;
     font-size: 21px;
     line-height: 40px;
+    color: #575353ef;
 }
 .tfrh1{
     margin-left: 62px;
@@ -295,6 +314,7 @@ body,p,h1,h5{
     margin-left: 113px;
     font-size: 21px;
     line-height: 40px;
+    color: #575353ef;
 }
 .tfrh2{
     margin-left: 150px;
@@ -307,6 +327,7 @@ body,p,h1,h5{
     margin-left: 81px;
     font-size: 21px;
     line-height: 40px;
+    color: #575353ef;
 }
 .tfrh3{
     margin-left: 122px;
@@ -324,6 +345,7 @@ body,p,h1,h5{
 }
 .bftxt1{
     margin-top: 11px;
+    color: rgba(118, 114, 114, 0.703);
 }
 .footerul{
     list-style: none;
@@ -336,4 +358,5 @@ body,p,h1,h5{
     margin-left: 20px;
     font-size: 15px;
     letter-spacing: 1px;
+    color: rgba(132, 124, 124, 0.879);
 }
